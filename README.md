@@ -2,7 +2,7 @@
 <center>
 <h1>💙</h1>
 <h1>Hello, This is Fortune.</h1>
-<p>I am study Computer Science and Engineering in CNU.</p>
+<p>I am studying Computer Science and Engineering in CNU.</p>
 </center>
 
 <br>
@@ -54,7 +54,7 @@ __2019__
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B2%A8% EB%A6%AC-%EB%8B%A8%EA%B8%B0%EC%97%B0%EC%88%98-01-City-Tour?category=517927">
-    <img src="./assets/2021-01-11 222257.png" title = "Google Route" alt="Google Route" style="width:100%">
+    <img src="./assets/a.png" title = "Google Route" alt="Google Route" style="width:100%">
   </a>
   <figcaption>Post Conference에서 제작한 Prototype 일부</figcaption>
 </figure>
@@ -93,7 +93,7 @@ __2019__
 </center>
 
 <figure>
-   <img src="./assets/20190828_223054.jpg" title = "Salesforce" alt="Salesforce" style="width:100%">
+   <img src="./assets/b.jpg" title = "Salesforce" alt="Salesforce" style="width:100%">
   <figcaption>Salesforce</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ Java를 사용하여 제작한, 동기화를 지원하는 프로젝트로
 
 
 <figure>
-   <img src="./assets/1576429264664.png" title = "HelloBooks" alt="HelloBooks" style="width:100%">
+   <img src="./assets/c.png" title = "HelloBooks" alt="HelloBooks" style="width:100%">
   <figcaption>HelloBooks</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ __2020__
 </p>
 
 <figure>
-   <img src="./assets/2021-01-12022618.png" title = "GuessWhat" alt="GuessWhat" style="width:100%">
+   <img src="./assets/d.png" title = "GuessWhat" alt="GuessWhat" style="width:100%">
   <figcaption>GuessWhat 계획서 일부</figcaption>
 </figure>
 
@@ -193,7 +193,7 @@ __2020__
 <p style="color:#B2B2B2;">해당 문제로👇</p>
 <figure>
   <a href = "https://www.acmicpc.net/problem/20002">
-  <img src="./assets/93046674-65668900-f695-11ea-97ce-2eee00b78e68.png" title = "Baekjoon20002" alt="Baekjoon20002" style="width:100%">
+  <img src="./assets/ee.png" title = "Baekjoon20002" alt="Baekjoon20002" style="width:100%">
   </a>
   <figcaption>백준</figcaption>
 </figure>
@@ -201,7 +201,7 @@ __2020__
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/4th-Thinking-PC?category=517926">
-    <img src="./assets/93046674-65668900-f695-11ea-97ce-2eee00b78e68.png" title = "AppleTree" alt="AppleTree" style="width:100%">
+    <img src="./assets/e.png" title = "AppleTree" alt="AppleTree" style="width:100%">
   </a>
   <figcaption>제 4회 생각하는 프로그래밍 대회 포스터 일부</figcaption>
 </figure>
@@ -242,7 +242,7 @@ UX 디자인 스프린트는 유저의 요구에 집중 한다면,
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/Service-Design-Camp?category=517926">
-    <img src="./assets/2021-01-23183744.png" title = "ServiceDesign" alt="ServiceDesign" style="width:100%">
+    <img src="./assets/f.png" title = "ServiceDesign" alt="ServiceDesign" style="width:100%">
   </a>
   <figcaption>Customer Journey Map</figcaption>
 </figure>
@@ -277,7 +277,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/AnA-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8F%99%EC%95%84%EB%A6%AC%EB%A5%BC-1%EB%85%84-%EB%8F%99%EC%95%88-%EC%9A%B4%EC%98%81%ED%95%B4%EB%B3%B4%EC%9E%90?category=517926">
-    <img src="./assets/AnALogo.png" title = "AnA" alt="AnA" style="width:100%">
+    <img src="./assets/g.png" title = "AnA" alt="AnA" style="width:100%">
   </a>
   <figcaption>AnA Logo</figcaption>
 </figure>
@@ -309,7 +309,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/Design-Sprint-Camp?category=517926">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "ServiceDesign" alt="ServiceDesign" style="width:100%">
+    <img src="./assets/h.png" title = "ServiceDesign" alt="ServiceDesign" style="width:100%">
   </a>
   <figcaption>디자인 스프린트 캠프 포스터</figcaption>
 </figure>
@@ -335,7 +335,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 프로젝트 노션으로👇</p>
 <figure>
   <a href = "https://boundless-witch-e2a.notion.site/Human-Computer-Interaction-Lab-fe36f7fbc51b4b73bad4fc0d1858fcfd">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "HCINotion" alt="HCINotion" style="width:100%">
+    <img src="./assets/i.png" title = "HCINotion" alt="HCINotion" style="width:100%">
   </a>
   <figcaption>HCI Notion</figcaption>
 </figure>
@@ -343,7 +343,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 프로젝트 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/RemotePrescriptionApp?category=517926">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "RemotePrescriptionApp" alt="RemotePrescriptionApp" style="width:100%">
+    <img src="./assets/ii.png" title = "RemotePrescriptionApp" alt="RemotePrescriptionApp" style="width:100%">
   </a>
   <figcaption>Remote Prescription Application</figcaption>
 </figure>
@@ -374,7 +374,7 @@ __2022__
 <p style="color:#B2B2B2;">해당 일상 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/LifeInPurdue-00-%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8?category=533646">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "LifeInPurdue" alt="LifeInPurdue" style="width:100%">
+    <img src="./assets/jj.JPG" title = "LifeInPurdue" alt="LifeInPurdue" style="width:100%">
   </a>
   <figcaption>Life In Purdue</figcaption>
 </figure>
@@ -382,7 +382,7 @@ __2022__
 <p style="color:#B2B2B2;">해당 프로젝트 포스트로👇</p>
 <figure>
   <a href = "">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "CroffleMakers" alt="CroffleMakers" style="width:100%">
+    <img src="./assets/j.png" title = "CroffleMakers" alt="CroffleMakers" style="width:100%">
   </a>
   <figcaption>CroffleMakers</figcaption>
 </figure>

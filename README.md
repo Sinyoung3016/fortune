@@ -193,7 +193,7 @@ __2020__
 <p style="color:#B2B2B2;">해당 문제로👇</p>
 <figure>
   <a href = "https://www.acmicpc.net/problem/20002">
-  <img src="./assets/ee.png" title = "Baekjoon20002" alt="Baekjoon20002" style="width:100%">
+  <img src="./assets/ee.png" title = "Baekjoon20002" alt="Baekjoon20002" style="width:70%">
   </a>
   <figcaption>백준</figcaption>
 </figure>
@@ -277,7 +277,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/AnA-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8F%99%EC%95%84%EB%A6%AC%EB%A5%BC-1%EB%85%84-%EB%8F%99%EC%95%88-%EC%9A%B4%EC%98%81%ED%95%B4%EB%B3%B4%EC%9E%90?category=517926">
-    <img src="./assets/g.png" title = "AnA" alt="AnA" style="width:100%">
+    <img src="./assets/g.png" title = "AnA" alt="AnA" style="width:60%">
   </a>
   <figcaption>AnA Logo</figcaption>
 </figure>
@@ -335,7 +335,7 @@ __2021__
 <p style="color:#B2B2B2;">해당 프로젝트 노션으로👇</p>
 <figure>
   <a href = "https://boundless-witch-e2a.notion.site/Human-Computer-Interaction-Lab-fe36f7fbc51b4b73bad4fc0d1858fcfd">
-    <img src="./assets/i.png" title = "HCINotion" alt="HCINotion" style="width:100%">
+    <img src="./assets/i.png" title = "HCINotion" alt="HCINotion" style="width:50%">
   </a>
   <figcaption>HCI Notion</figcaption>
 </figure>
@@ -343,14 +343,16 @@ __2021__
 <p style="color:#B2B2B2;">해당 프로젝트 포스트로👇</p>
 <figure>
   <a href = "https://sinyoung3016.tistory.com/entry/RemotePrescriptionApp?category=517926">
-    <img src="./assets/ii.png" title = "RemotePrescriptionApp" alt="RemotePrescriptionApp" style="width:100%">
+    <img src="./assets/ii.png" title = "RemotePrescriptionApp" alt="RemotePrescriptionApp" style="width:60%">
   </a>
   <figcaption>Remote Prescription Application</figcaption>
 </figure>
   
 </center>
   
-<br><br><br>
+<br>
+
+---
 
 __2022__
 

@@ -394,7 +394,7 @@ __2022__
 <br>
   
 <center>
-<h3>졸업 프로젝트 : CNU-FOSS</h3>
+<h3>졸업 프로젝트 : CNU-SAM</h3>
 <p>Chung-nam National University</p>
 <p>2022.01 - 2022.12()</p>
 
@@ -402,18 +402,18 @@ __2022__
 
 <p style="color:#B2B2B2;">해당 프로젝트 노션으로👇</p>
 <figure>
-  <a href = "https://www.notion.so/1dce5ea802ad47c684db64d2d2fefda5">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "CNUFOSSNotion" alt="CNUFOSSNotion" style="width:100%">
+  <a href = "">
+    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "CNUSAMNotion" alt="CNUSAMNotion" style="width:100%">
   </a>
-  <figcaption>CNU-FOSS Notion</figcaption>
+  <figcaption>CNU-SAM Notion</figcaption>
 </figure>
   
 <p style="color:#B2B2B2;">해당 프로젝트 포스트로👇(예정)</p>
 <figure>
   <a href = "">
-    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "CNUFOSS" alt="CNUFOSS" style="width:100%">
+    <img src="./assets/화면 캡처 2021-07-26 140627.png" title = "CNUSAM" alt="CNUSAM" style="width:100%">
   </a>
-  <figcaption>CNU-FOSS</figcaption>
+  <figcaption>CNU-SAM</figcaption>
 </figure>
   
 </center>
